@@ -24,6 +24,7 @@ Hints:
 import React from 'react';
 import { Image, TextInput, Text, View, StyleSheet } from 'react-native';
 
+
 class Movie extends React.Component {
   render() {
     return (
